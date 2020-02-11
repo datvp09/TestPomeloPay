@@ -1,6 +1,6 @@
 # TestPomeloPay
 
-React Native get transactions app, using React Native 0.61.5, React 16.9.0 and axios v0.19.2
+React Native get transactions app, using React Native 0.61.5, React 16.9.0 and axios v0.19.2 and mockup API
 
 App's features:
 ```
