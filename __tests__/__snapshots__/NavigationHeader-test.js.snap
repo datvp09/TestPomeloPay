@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TripInfoItem Rendering should match to snapshot 1`] = `
+<View>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#1365AF",
+        "height": 20,
+      }
+    }
+  />
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#1365AF",
+          "flexDirection": "row",
+          "height": 55,
+          "justifyContent": "space-between",
+          "paddingLeft": 25,
+        },
+        Object {
+          "height": 60,
+        },
+      ]
+    }
+  >
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "white",
+            "fontSize": 17,
+          },
+          undefined,
+        ]
+      }
+    >
+      All Transactions
+    </Text>
+  </View>
+</View>
+`;
